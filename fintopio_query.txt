@@ -1,0 +1,1 @@
+query=xx/user=xx in application > session storage > tgwebapp/tgweb
